@@ -38,6 +38,40 @@ a, a:hover {
   display: flex;
   background-image: linear-gradient(-20deg, #ff2846 0%, #6944ff 100%);
 }
+
+.card-buttons {
+  display: flex;
+  background-color: #fff;
+  margin-top: 2vh;
+  margin-bottom: -6vh;
+  position: sticky;
+  bottom: 0;
+  left: 0;
+}
+
+.card-buttons button {
+  flex: 1 1 auto;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background: 0;
+  font-size: 13px;
+  border: 0;
+  padding: 15px 5px;
+  cursor: pointer;
+  color: #5c5c6d;
+  transition: 0.3s;
+  font-family: "Jost", sans-serif;
+  font-weight: 500;
+  outline: 0;
+  border-bottom: 3px solid transparent;
+}
+.card-buttons button.is-active, .card-buttons button:hover {
+  color: #2b2c48;
+  border-bottom: 3px solid #8a84ff;
+  background: linear-gradient(to bottom, rgba(127, 199, 231, 0) 0%, rgba(207, 204, 255, 0.2) 44%, rgba(211, 226, 255, 0.4) 100%);
+}
 @media screen and (max-width: 768px) {
   .wrapper {
     height: auto;
