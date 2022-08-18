@@ -6,10 +6,10 @@ Here are some ideas to get you started:
 
 ![metrics plugin topics icons](https://user-images.githubusercontent.com/62633516/185414519-13b43887-b388-4c2e-9d47-bcb46a1e38a8.svg)
 
-<!-- Trungquandev -->
+<!-- Tec Santosh Kumar 
 <a href="#" target="_blank">
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
-</a>
+</a>-->
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
