@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 <a href="#" target="_blank">
-  ![185414519-13b43887-b388-4c2e-9d47-bcb46a1e38a8](https://user-images.githubusercontent.com/62633516/187016767-c4cbeadb-8156-4144-a097-ee401ae4fe41.svg)
+  <img src="https://user-images.githubusercontent.com/62633516/187016767-c4cbeadb-8156-4144-a097-ee401ae4fe41.svg" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
