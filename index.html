@@ -25,7 +25,7 @@
       <div class="profile-card__cnt js-profile-cnt">
         <div class="profile-card__name">Tec Santosh Kumar</div>
         <div class="profile-card__txt">Passionate Software Developer at <strong>Embedded Designs Services India Private Limited</strong></div>
-        <div class="profile-card-loc">
+        <!-- <div class="profile-card-loc">
           <span class="profile-card-loc__icon">
             <svg class="icon">
               <use xlink:href="#icon-location"></use>
@@ -35,7 +35,7 @@
           <span class="profile-card-loc__txt">
             Lucknow, India
           </span>
-        </div>
+        </div> -->
 
         <div class="profile-card-inf">
           <div class="profile-card-inf__item">
@@ -125,7 +125,7 @@
       </div>
 
       <div class="profile-card-message js-message">
-        <form class="profile-card-form">
+        <form class="profile-card-form" action="https://electrotechsolution.com/api/whatsapp.php/" method="post">
           <div class="profile-card-form__container">
             <textarea placeholder="Say something..."></textarea>
           </div>
@@ -140,7 +140,6 @@
             </button>
           </div>
         </form>
-
         <div class="profile-card__overlay js-message-close"></div>
       </div>
 
@@ -245,65 +244,7 @@
 
   <!-- partial -->
   <script src="./script.js"></script>
-<script>
-  const token = '83763g87x';
-const instanceId = '777';
-const url = `https://api.chat-api.com/instance${instanceId}/sendTemplate?token=${token}`;
 
-// Select the textarea and buttons
-const textarea = $('.profile-card-form textarea');
-const sendButton = $('.profile-card__button.button--blue.js-message-close');
-const cancelButton = $('.profile-card__button.button--gray.js-message-close');
-
-// Event listener for the "Send" button
-sendButton.on('click', function() {
-    // Get the message from the textarea
-    const message = textarea.val();
-
-    // Check if the message is not empty
-    if (message.trim() !== '') {
-        // Prepare the data object
-        let data = {
-            phone: '6306753746',
-            template: "Tec Santosh Kumar",
-            namespace: "tecsantoshkumar",
-            language: {
-                code: "en",
-                policy: "deterministic"
-            },
-            message: {
-                body: message
-            }
-        };
-
-        // Send a request
-        $.ajax({
-            url: url,
-            data: JSON.stringify(data),
-            contentType: 'application/json',
-            type: 'POST',
-            success: function(response) {
-                // Handle success response
-                console.log(response);
-            },
-            error: function(error) {
-                // Handle error
-                console.error(error);
-            }
-        });
-    } else {
-        // Handle case where message is empty
-        alert('Please enter a message before sending.');
-    }
-});
-
-// Event listener for the "Cancel" button
-cancelButton.on('click', function() {
-    // Clear the textarea when canceling
-    textarea.val('');
-});
-
-</script>
 </body>
 
 </html>
