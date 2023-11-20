@@ -127,20 +127,19 @@
       <div class="profile-card-message js-message">
         <form class="profile-card-form" action="https://electrotechsolution.com/api/WhatsappAPI.php" method="post">
           <div class="profile-card-form__container">
-            <textarea placeholder="Say something..."></textarea>
-          </div>
+            <textarea name="message" placeholder="Say something..."></textarea>
+            </div>
 
-          <div class="profile-card-form__bottom">
-            <button class="profile-card__button button--blue js-message-close">
-              Send
-            </button>
+            <div class="profile-card-form__bottom">
+                <button type="submit" class="profile-card__button button--blue js-message-close" name="submit">
+                    Send
+                </button>
 
-            <button class="profile-card__button button--gray js-message-close">
-              Cancel
-            </button>
-          </div>
+                <button class="profile-card__button button--gray js-message-close">
+                    Cancel
+                </button>
+            </div>
         </form>
-        <div class="profile-card__overlay js-message-close"></div>
       </div>
 
     </div>
