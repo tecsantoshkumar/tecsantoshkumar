@@ -41,7 +41,75 @@
     <!-- CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
     <link rel="stylesheet" href="./style.css">
-    
+
+        <style>
+        /* Base styles for all devices */
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+        }
+        
+        .img-container {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            align-items: center;
+        }
+        
+        .img-responsive {
+            max-width: 100%;
+            height: auto;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        /* Mobile Phones (portrait) */
+        @media (max-width: 480px) {
+            .img-responsive {
+                width: 100%;
+            }
+        }
+        
+        /* Tablets and large phones (landscape) */
+        @media (min-width: 481px) and (max-width: 768px) {
+            .img-responsive {
+                width: 90%;
+            }
+        }
+        
+        /* Small laptops and tablets (landscape) */
+        @media (min-width: 769px) and (max-width: 1024px) {
+            .img-responsive {
+                width: 80%;
+            }
+            .img-container {
+                flex-direction: row;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+        }
+        
+        /* Laptops and Desktops */
+        @media (min-width: 1025px) {
+            .img-responsive {
+                width: 70%;
+                max-width: 800px;
+            }
+            .img-container {
+                flex-direction: row;
+                justify-content: center;
+            }
+        }
+        
+        /* Large Screens */
+        @media (min-width: 1440px) {
+            .img-responsive {
+                width: 60%;
+            }
+        }
+    </style>
     <!-- Structured Data -->
     <script type="application/ld+json">
     {
@@ -71,8 +139,10 @@
                     <div class="card-content">
                         <h1>Work History</h1>
 
-                         <img src="1.png" alt="not found" class="img-responsive">
-                         <img src="2.png" alt="not found" class="img-responsive">
+                         <div class="img-container">
+        <img src="1.png" alt="Resignation letter from Vikas Gupta" class="img-responsive">
+        <img src="2.png" alt="Resignation acceptance from Naveen Dagar" class="img-responsive">
+    </div>
                     </div>
                 </div>
 
