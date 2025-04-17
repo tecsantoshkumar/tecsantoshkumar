@@ -1,64 +1,55 @@
-### Hi there 👋
+# 👋 Hi there, I'm **Santosh Kumar**
 
-**tecsantoshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Embedded Systems Engineer** | **Firmware Developer** | **IoT Specialist**  
+*Expert in MCU programming, RTOS, and secure embedded systems.*
 
-Here are some ideas to get you started:
-
-<a href="#" target="_blank">
-  <img src="https://user-images.githubusercontent.com/62633516/187016767-c4cbeadb-8156-4144-a097-ee401ae4fe41.svg" />
-</a>
-
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
-&nbsp;
-
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
 <div align="center">
-  <a href="https://tecsantoshkumar" target="blank">
-  </a>
-  <a href="https://facebook.com/tecsantoshkumar" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/tecsantoshkumar" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
-  </a>
-  <a href="https://instagram.com/tecsantoshkumar" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="mailto:sk4809656@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
-  </a>
+  
+[![Open Source](https://img.shields.io/badge/Open%20Source-%F0%9F%92%97-blue)](https://github.com/tecsantoshkumar)
+[![Experience](https://img.shields.io/badge/4%2B%20Years-%F0%9F%92%BB-239120)](https://)
+[![VTS Expert](https://img.shields.io/badge/AIS--140-%F0%9F%9A%A8-03234B)](https://)
+
 </div>
 
-<br>
+## <img src="https://img.icons8.com/color/48/000000/electronics.png" width="30"/> Technical Expertise
+
+### <img src="https://img.icons8.com/color/48/000000/processor.png" width="25"/> Core Competencies
+- <img src="https://img.icons8.com/color/48/000000/lock.png" width="20"/> Secure Embedded Systems (AES-256, Secure Boot)
+- <img src="https://img.icons8.com/color/48/000000/car.png" width="20"/> Automotive Protocols (CAN FD, Modbus RTU)
+- <img src="https://img.icons8.com/color/48/000000/wifi.png" width="20"/> Wireless Tech (4G/LTE, BLE, LWM2M)
+- <img src="https://img.icons8.com/color/48/000000/operating-system.png" width="20"/> RTOS Development (FreeRTOS, ThreadX)
+
+## <img src="https://img.icons8.com/color/48/000000/toolbox.png" width="30"/> Technical Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **<img src="https://img.icons8.com/color/48/000000/processor.png" width="20"/> MCUs** | ![STM32](https://img.shields.io/badge/-STM32-03234B?logo=stmicroelectronics&logoColor=white) ![STM8](https://img.shields.io/badge/-STM8-03234B?logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white) ![dsPIC](https://img.shields.io/badge/-dsPIC-00979D?logo=microchip&logoColor=white) ![RPi](https://img.shields.io/badge/-Raspberry_Pi-A22846?logo=raspberry-pi&logoColor=white) |
+| **<img src="https://img.icons8.com/color/48/000000/network-card.png" width="20"/> Protocols** | ![CAN FD](https://img.shields.io/badge/-CAN_FD-239120?logo=can&logoColor=white) ![Modbus](https://img.shields.io/badge/-Modbus-239120?logo=modbus&logoColor=white) ![MQTT](https://img.shields.io/badge/-MQTT-660066?logo=mqtt&logoColor=white) ![LWM2M](https://img.shields.io/badge/-LWM2M-0095D5?logo=lightweightm2m&logoColor=white) |
+| **<img src="https://img.icons8.com/color/48/000000/lock.png" width="20"/> Security** | ![AES](https://img.shields.io/badge/-AES_256-5C3EE8?logo=securityscorecard&logoColor=white) ![WolfSSL](https://img.shields.io/badge/-WolfSSL-6DB33F?logo=wolfssl&logoColor=white) ![MbedTLS](https://img.shields.io/badge/-MbedTLS-00979D?logo=mbed&logoColor=white) |
+| **<img src="https://img.icons8.com/color/48/000000/circuit.png" width="20"/> Hardware** | ![Altium](https://img.shields.io/badge/-Altium-A5915F?logo=altium-designer&logoColor=white) ![KiCad](https://img.shields.io/badge/-KiCad-314CB0?logo=kicad&logoColor=white) ![JTAG](https://img.shields.io/badge/-JTAG-FF6D01?logo=jtag&logoColor=white) |
+| **<img src="https://img.icons8.com/color/48/000000/sensor.png" width="20"/> Sensors** | ![IR](https://img.shields.io/badge/-IR_Sensor-239120) ![RFID](https://img.shields.io/badge/-RFID-03234B) ![MEMS](https://img.shields.io/badge/-MEMS-5C3EE8) |
+| **<img src="https://img.icons8.com/color/48/000000/display.png" width="20"/> Displays** | ![LCD](https://img.shields.io/badge/-LCD-0095D5) ![OLED](https://img.shields.io/badge/-OLED-000000) ![TFT](https://img.shields.io/badge/-TFT-660066) |
+| **<img src="https://img.icons8.com/color/48/000000/settings.png" width="20"/> Tools** | ![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-03234B?logo=stmicroelectronics&logoColor=white) ![ESP-IDF](https://img.shields.io/badge/-ESP--IDF-E7352C?logo=espressif&logoColor=white) ![IAR](https://img.shields.io/badge/-IAR-000000?logo=iar&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white) |
+
+
+
+## <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" width="30"/> Education
+- <img src="https://img.icons8.com/color/48/000000/university.png" width="20"/> **B.Tech in EEE** - SR Group of Institutions
+- <img src="https://img.icons8.com/color/48/000000/certificate.png" width="20"/> **Industrial Automation** - Electrocus Solution
+
+## <img src="https://img.icons8.com/color/48/000000/handshake.png" width="30"/> Connect
+<div align="center">
+  
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>](https://linkedin.com/in/tecsantoshkumar)
+[<img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/>](mailto:sk4809656@gmail.com)
+[<img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="40"/>](tel:+916306753746)
+
+</div>
+
+---
+
+<div align="center">
+  
+"Engineering robust embedded solutions that bridge hardware and software"
+
+</div>
