@@ -1,143 +1,159 @@
-<h1 align="center">
-Hi 👋, I'm Santosh Kumar
-</h1>
+# <div align="center">
 
-<h3 align="center">
-🚀 Embedded Systems Engineer | Automotive Firmware Developer | IoT & Embedded Linux
-</h3>
+# 👋 Hi, I'm **Santosh Kumar**
 
-<p align="center">
-Building intelligent embedded solutions that seamlessly connect hardware, firmware, and cloud technologies.
-</p>
+### 🚀 Embedded Systems Engineer | Firmware Developer | IoT Architect
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C853&center=true&vCenter=true&width=700&lines=Embedded+Systems+Engineer;Firmware+Developer;Automotive+%7C+IoT+%7C+BMS;STM32+%7C+ESP32+%7C+Embedded+Linux;Building+Secure+Connected+Devices" />
 
-<img src="https://komarev.com/ghpvc/?username=tecsantoshkumar&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+![Profile Views](https://komarev.com/ghpvc/?username=tecsantoshkumar\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/tecsantoshkumar?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/tecsantoshkumar?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Experience-6%2B%20Years-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AIS--140-Automotive-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-🔹 Embedded Systems & Firmware Engineer
+<img align="right" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-🔹 Automotive Electronics & AIS-140
+🔹 💻 Embedded Systems & Firmware Development
 
-🔹 Battery Management Systems (BMS)
+🔹 🚗 Automotive Electronics (AIS-140)
 
-🔹 Industrial IoT & Automation
+🔹 🔋 Battery Management Systems (BMS)
 
-🔹 STM32 • ESP32 • Raspberry Pi
+🔹 🌐 Industrial IoT & Edge Computing
 
-🔹 Embedded Linux
+🔹 ⚡ Real-Time Embedded Applications
 
-🔹 Secure Firmware & OTA Updates
+🔹 🐧 Embedded Linux Development
 
-🔹 Cloud Connectivity (MQTT • LwM2M)
+🔹 🔐 Secure Firmware & OTA Updates
 
----
-
-# 🚀 Core Expertise
-
-### 🔐 Security
-- AES-256 Encryption
-- Secure Boot
-- OTA Firmware
-- WolfSSL
-- MbedTLS
-
-### 🚗 Automotive
-- AIS-140
-- CAN
-- CAN FD
-- OBD-II
-- Modbus RTU
-
-### 📡 IoT
-- MQTT
-- LwM2M
-- LTE / 4G
-- BLE
-- Wi-Fi
-- Ethernet
-
-### ⚡ RTOS
-- FreeRTOS
-- ThreadX
-- Zephyr
+🔹 ☁️ Cloud Connected Embedded Devices
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Core Expertise
 
-## Programming
+## 🔐 Security
 
 <p>
+<img src="https://img.shields.io/badge/AES--256-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Secure_Boot-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OTA_Updates-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WolfSSL-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MbedTLS-00599C?style=for-the-badge"/>
+</p>
+
+---
+
+## 🚗 Automotive
+
+<p>
+<img src="https://img.shields.io/badge/AIS--140-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CAN-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CAN_FD-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OBD--II-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Modbus_RTU-red?style=for-the-badge"/>
+</p>
+
+---
+
+## 📡 IoT & Connectivity
+
+<p>
+<img src="https://img.shields.io/badge/MQTT-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LwM2M-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/4G_LTE-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BLE-cyan?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WiFi-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ethernet-red?style=for-the-badge"/>
+</p>
+
+---
+
+## ⚡ RTOS
+
+<p>
+<img src="https://img.shields.io/badge/FreeRTOS-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ThreadX-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Zephyr-purple?style=for-the-badge"/>
+</p>
+
+---
+
+# 💻 Programming Languages
+
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,bash"/>
 
 </p>
 
-## Embedded Platforms
+---
 
-<p>
+# 🔧 Embedded Platforms
 
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino"/>
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=raspberrypi,linux"/>
 
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/STM8-03234B?style=for-the-badge"/>
-
 </p>
 
 ---
 
-## Protocols
+# 🌐 Protocols
 
-<p>
+✔ MQTT
 
-<img src="https://img.shields.io/badge/CAN-00599C?style=for-the-badge"/>
+✔ LwM2M
 
-<img src="https://img.shields.io/badge/CAN--FD-008000?style=for-the-badge"/>
+✔ TCP/IP
 
-<img src="https://img.shields.io/badge/UART-4CAF50?style=for-the-badge"/>
+✔ UDP
 
-<img src="https://img.shields.io/badge/SPI-FF5722?style=for-the-badge"/>
+✔ HTTP/HTTPS
 
-<img src="https://img.shields.io/badge/I2C-673AB7?style=for-the-badge"/>
+✔ BLE
 
-<img src="https://img.shields.io/badge/RS485-3F51B5?style=for-the-badge"/>
+✔ UART
 
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto"/>
+✔ SPI
 
-<img src="https://img.shields.io/badge/LwM2M-0095D5?style=for-the-badge"/>
+✔ I2C
 
-</p>
+✔ RS485
+
+✔ CAN
+
+✔ CAN FD
+
+✔ Modbus RTU
+
+✔ Ethernet
 
 ---
 
-## Development Tools
+# 🛠 Development Tools
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 
-<img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STM32CubeIDE-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/IAR-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IAR_Workbench-red?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Altium-A5915F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MPLAB_X-green?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/EasyEDA-1765F2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CMake-orange?style=for-the-badge"/>
 
 </p>
 
@@ -145,46 +161,66 @@ Building intelligent embedded solutions that seamlessly connect hardware, firmwa
 
 # ⭐ Featured Projects
 
-| 🚀 Project | Description |
-|------------|-------------|
-| 🚗 **AIS-140 Vehicle Telematics** | GPS, LTE, MQTT, CAN, OTA Firmware |
-| 🔋 **Battery Management System** | STM32 + TI BQ76942/BQ76952 |
-| 🏭 **Industrial VRU Controller** | Ethernet, HMI, Modbus RTU |
-| 🤖 **AI Smart Mirror** | Raspberry Pi + OpenAI |
-| 🌐 **Industrial IoT Gateway** | Remote Monitoring & Cloud |
+| 🚀 Project                    | Description                             |
+| ----------------------------- | --------------------------------------- |
+| 🚗 AIS-140 Vehicle Telematics | GPS • LTE • MQTT • CAN • Secure OTA     |
+| 🔋 Battery Management System  | STM32 + TI BQ76942/BQ76952              |
+| 🏭 Industrial VRU Controller  | Ethernet • HMI • Modbus RTU             |
+| 🤖 AI Smart Mirror            | Raspberry Pi • OpenAI • Voice Assistant |
+| 🌐 Industrial IoT Gateway     | Remote Monitoring • Cloud Connectivity  |
 
 ---
 
-# 🌐 Connect With Me
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<a href="https://linkedin.com/in/tecsantoshkumar">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tecsantoshkumar&show_icons=true&theme=tokyonight"/>
 
-<a href="mailto:sk4809656@gmail.com">
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="48"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tecsantoshkumar&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecsantoshkumar&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://github.com/tecsantoshkumar">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://wa.me/916306753746">
-<img src="https://img.icons8.com/color/96/whatsapp.png" width="48"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+# 💬 Engineering Philosophy
 
-> **"Engineering secure, scalable, and intelligent embedded systems that power the next generation of connected devices."**
+> ### 🚀 Engineering secure, scalable, and intelligent embedded systems that power the next generation of connected devices.
 
-<p align="center">
+---
 
-⭐ **Thanks for visiting my profile!**
+<div align="center">
 
-</p>
+### ⭐ Thanks for visiting my profile!
+
+**If you like my work, consider giving a ⭐ to my repositories.**
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</div>
